@@ -57,6 +57,7 @@ The types and techniques that will be used are:
 * Bboundary value analysis
 * Decision table
 * Positive / Negative testing
+
 Any other types or techniques that will be necessary will be applied accordingly.
 (descrieti aici toate testele pe care intentionati sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)
 Tests not in scope:
