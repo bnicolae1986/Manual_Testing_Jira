@@ -18,4 +18,5 @@ The below stories war created in Jira and describe the functional specifications
 
 Here you can find the release that was created for this project:
 
+![release](https://github.com/bnicolae1986/Manual_Testing_Jira/assets/156198321/5f449b0e-438d-43fd-aad1-67198cb532e9)
 
