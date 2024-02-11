@@ -34,10 +34,10 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 (numele persoanelor pot sa fie fictive, doar sa treceti numele vostru ca si tester)
 
-    Project manager
-    Product owner
-    Software developer
-    QA Engineer
+  * Project manager - 
+  * Product owner - 
+  * Software developer - 
+  * QA Engineer - Bogdan Nicolae
 
 #### 1.1.2 Entry criteria defined
 
