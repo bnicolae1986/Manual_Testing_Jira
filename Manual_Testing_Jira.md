@@ -23,11 +23,13 @@ Here you can find the release that was created for this project:
 ## Testing process
 
 The test process was performed based on the standard test process as described below.
+
 1.1 Test planning
 
 The Test Plan is designed to describe all details of testing for the "pagina mea" module from the didactic.ro application.
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here (inserati link catre documentul cu planul de testare)
+
 1.1.1. Roles asigned to the project and persons allocated
 
 (numele persoanelor pot sa fie fictive, doar sa treceti numele vostru ca si tester)
