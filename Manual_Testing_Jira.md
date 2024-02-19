@@ -134,4 +134,8 @@ The test cases can be accessed here:
 
 [ZFJ-issue-export-02-19-2024-BNTMTA15.xlsx](https://github.com/bnicolae1986/Manual_Testing_Jira/files/14330684/ZFJ-issue-export-02-19-2024-BNTMTA15.xlsx)
 
+### 1.5 Test Implementation
 
+The following elements are needed to be ready before the test execution phase begins:
+
+(inserati lista de elemente care sunt evaluate in etapa de implementare)
