@@ -39,25 +39,25 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 1.1.2 Entry criteria defined
 
-- The roles are alocated to the team members.
-- The requirements are defined and approved.
-The test strategy is developed.
-The project risks are identified and mitigated.
-The test plan is created and approved.
-The test data is prepared.
-Test environment has been set-up and all other necessary resources such as tools and devices are available.
-The test cases are developed and approved.
+* The roles are alocated to the team members.
+* The requirements are defined and approved.
+* The test strategy is developed.
+* The project risks are identified and mitigated.
+* The test plan is created and approved.
+* The test data is prepared.
+* Test environment has been set-up and all other necessary resources such as tools and devices are available.
+* The test cases are developed and approved.
 
 #### 1.1.3 Exit criteria defined
 
-All the test cases have been alocated.
-All the test cases have been executed.
-Desired and sufficient coverage of the requirements and functionalities under the test.
-90% of the faults have been corrected and closed.
-Regression testing is completed.
-No high priority or severity or critical bug has been left out.
-The project risks are identified and mitigated.
-The closing report has been generated and sent to the stakeholders.
+* All the test cases have been alocated.
+* All the test cases have been executed.
+* Desired and sufficient coverage of the requirements and functionalities under the test.
+* 90% of the faults have been corrected and closed.
+* Regression testing is completed.
+* No high priority or severity or critical bug has been left out.
+* The project risks are identified and mitigated.
+* The closing report has been generated and sent to the stakeholders.
 
 
 (enumerati aici toate criteriile de iesire pe care le-ati definit pentru proiectul vostru)
