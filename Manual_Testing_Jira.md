@@ -59,8 +59,6 @@ The plan identifies the items to be tested, the features to be tested, the types
 * The project risks are identified and mitigated.
 * The closing report has been generated and sent to the stakeholders.
 
-
-(enumerati aici toate criteriile de iesire pe care le-ati definit pentru proiectul vostru)
 #### 1.1.4 Test scope
 Tests in scope:
 In the scope of the testing is the "pagina mea" module in the didactic.ro aplication, wich will also include "abonamente", "despre mine", "diplome si adeverinte" sections.
