@@ -107,12 +107,13 @@ Test monitoring has been done to help stakeholders stay informed about the testi
 
 * Feedback has been provided to the stakeholders regarding the progress of sprint test cycles.
 * Test results achieved so far are provided the the stakeholders.
-* The test Coverage Metrics is provided.
-* The test Execution Metrics is provided. The number of test cases that have passed, failed, been blocked, or are on hold, are mentioned.
+* The test coverage metrics is provided.
+* The test execution metrics is provided. The number of test cases that have passed, failed, been blocked, or are on hold, are mentioned.
 * Defect Metrics is provided.
 
   ![test metrics](https://github.com/bnicolae1986/Manual_Testing_Jira/assets/156198321/b4624be8-3083-453d-bb7d-4c93833d65ef)
 
+  ![tests](https://github.com/bnicolae1986/Manual_Testing_Jira/assets/156198321/213e19cb-23d9-44e8-8314-d5e6ad01a4ef)
 
 
 (inserati aici motivul pentru care a fost facuta etapa de monitorizare si control si respectiv cum s-a facut aceasta etapa. Aici veti insera de asemenea si raportul de status (test status report) din zephyr - test metrics - primul din lista care sa reflecte activitatea si evolutia testarii. Recomand aici sa executati teste aproape in fiecare zi ca sa vada angajatorul implicarea voastra in testare)
