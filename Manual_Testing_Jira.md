@@ -78,9 +78,15 @@ Tests not in scope:
 
 #### 1.1.5 Risks detected
 Project risks:
+* Improper assessment of required manpower resources.
+* Lack of technical knowledge on specific areas of the product.
+* Unclear business requirements.
+* Continually changing requirements.
+* Improper communication among team members.
+* Improper communication with enterprise stakeholders.
+* The project scope is expanded to include initially unanticipated expenses.
+* Inaccurate estimation, have cause unanticipated expenses.
 
-(enumerati aici toate riscurile de proiect pe care le-ati identificat pentru proiectul vostru)
-Product risks:
 
 (enumerati aici toate riscurile de produs pe care le-ati identificat pentru proiectul vostru)
 #### 1.1.6 Evaluating entry criteria
