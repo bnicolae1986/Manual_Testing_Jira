@@ -123,5 +123,6 @@ Feedback from the stakeholders has been provided, and the following actions have
 The testing process will be executed based on the application requirements. 
 
 The following test conditions were found:
+
 ![teste](https://github.com/bnicolae1986/Manual_Testing_Jira/assets/156198321/5d4dd1a6-c377-42f4-9929-e51834b3959b)
 
