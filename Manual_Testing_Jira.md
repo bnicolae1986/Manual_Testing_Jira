@@ -100,3 +100,19 @@ Product risks:
 #### 1.1.6 Evaluating entry criteria
 
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
+
+### 1.2 Test Monitoring and Control
+
+Test monitoring has been done to help stakeholders stay informed about the testing efforts and the quality of the software being developed. It provides visibility into whether the testing is on track, whether the quality goals are being met, and whether any corrective actions are required to ensure successful project outcomes. 
+
+* Feedback has been provided to the stakeholders regarding the progress of sprint test cycles.
+* Test results achieved so far are provided the the stakeholders.
+* The test Coverage Metrics is provided.
+* The test Execution Metrics is provided. The number of test cases that have passed, failed, been blocked, or are on hold, are mentioned.
+* Defect Metrics is provided.
+
+  ![test metrics](https://github.com/bnicolae1986/Manual_Testing_Jira/assets/156198321/b4624be8-3083-453d-bb7d-4c93833d65ef)
+
+
+
+(inserati aici motivul pentru care a fost facuta etapa de monitorizare si control si respectiv cum s-a facut aceasta etapa. Aici veti insera de asemenea si raportul de status (test status report) din zephyr - test metrics - primul din lista care sa reflecte activitatea si evolutia testarii. Recomand aici sa executati teste aproape in fiecare zi ca sa vada angajatorul implicarea voastra in testare)
