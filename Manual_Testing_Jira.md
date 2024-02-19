@@ -128,5 +128,10 @@ The following test conditions were found:
 
 ### 1.4 Test Design
 
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here (inserati linkul catre fisierul cu testele, in format pdf, word sau csv)
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. 
+
+The test cases can be accessed here:
+
+[ZFJ-issue-export-02-19-2024-BNTMTA15.xlsx](https://github.com/bnicolae1986/Manual_Testing_Jira/files/14330684/ZFJ-issue-export-02-19-2024-BNTMTA15.xlsx)
+
 
