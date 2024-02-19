@@ -54,7 +54,7 @@ The types and techniques that will be used are:
 * Functional testing
 * Usability testing
 * Equivalence partitioning
-* Bboundary value analysis
+* Boundary value analysis
 * Decision table
 * Positive / Negative testing
 
