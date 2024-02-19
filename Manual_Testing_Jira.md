@@ -126,3 +126,7 @@ The following test conditions were found:
 
 ![teste](https://github.com/bnicolae1986/Manual_Testing_Jira/assets/156198321/5d4dd1a6-c377-42f4-9929-e51834b3959b)
 
+### 1.4 Test Design
+
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here (inserati linkul catre fisierul cu testele, in format pdf, word sau csv)
+
