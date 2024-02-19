@@ -71,10 +71,11 @@ The types and techniques that will be used are:
 * Positive / Negative testing
 
 Any other types or techniques that will be necessary will be applied accordingly.
-(descrieti aici toate testele pe care intentionati sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)
-Tests not in scope:
 
-(descrieti aici toate testele pe care NU intentionati sau nu puteti sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)
+Tests not in scope:
+* Sanity testing.
+* State transition testing.
+
 #### 1.1.5 Risks detected
 Project risks:
 
