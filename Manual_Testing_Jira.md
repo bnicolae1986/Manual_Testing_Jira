@@ -87,8 +87,16 @@ Project risks:
 * The project scope is expanded to include initially unanticipated expenses.
 * Inaccurate estimation, have cause unanticipated expenses.
 
+Product risks:
+* Delivery of a product that contains defects that lead to failure
+* The inability of the product to meet the requirements.
+* The inability of the product to meet the customer's expectations.
+* Poor functionality of the application.
+* Poor performance of the application.
+* Poor usability of the application.
+* Poor reliability of the application.
 
-(enumerati aici toate riscurile de produs pe care le-ati identificat pentru proiectul vostru)
+
 #### 1.1.6 Evaluating entry criteria
 
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
