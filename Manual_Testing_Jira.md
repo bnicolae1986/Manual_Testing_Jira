@@ -108,7 +108,7 @@ Test monitoring has been done to help stakeholders stay informed about the testi
 * Feedback has been provided to the stakeholders regarding the progress of sprint test cycles.
 * Test results achieved so far are provided the the stakeholders.
 * The test coverage metrics is provided.
-* The test execution metrics is provided. The number of test cases that have passed, failed, been blocked, or are on hold, are mentioned.
+* The test execution metrics is provided. The number of test cases that have passed, failed, or are unexecuted, are mentioned.
 * Defect Metrics is provided.
 
   ![test metrics](https://github.com/bnicolae1986/Manual_Testing_Jira/assets/156198321/b4624be8-3083-453d-bb7d-4c93833d65ef)
