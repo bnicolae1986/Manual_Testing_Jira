@@ -8,7 +8,7 @@ Tools used: Jira, Zephyr Squad.
 
 ## Functional specifications:
 
-The below stories war created in Jira and describe the functional specifications of the "pagina mea" module, for which the final project is performed upon.
+The stories below were created in Jira and describe the functional specifications of the "pagina mea" module, for which the final project is performed upon.
 
 ![story1](https://github.com/bnicolae1986/Manual_Testing_Jira/assets/156198321/7381f75e-d173-4718-b69a-c5b454f5883a)
 
