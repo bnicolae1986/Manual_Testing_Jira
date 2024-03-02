@@ -175,6 +175,6 @@ The following elements are needed to be ready before the test execution phase be
 * Update configurations if necessary based on testing needs.
 
 #### Backup and Recovery:
-* Create backups of essential data before starting tests to avoid the loss of important informa
+* Create backups of essential data before starting tests to avoid the loss of important information.
 
 
