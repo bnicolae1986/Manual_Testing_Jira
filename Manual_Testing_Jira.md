@@ -119,7 +119,7 @@ Feedback from the stakeholders has been provided, and the following actions have
  * The test schedules and deadlines have been reorganised.
  * The test cases and test conditions have been modified to better suit the business requirements.
 
- ### 1.3 Test Analysis
+### 1.3 Test Analysis
 The testing process will be executed based on the application requirements. 
 
 The following test conditions were found:
@@ -176,5 +176,29 @@ The following elements are needed to be ready before the test execution phase be
 
 #### Backup and Recovery:
 * Create backups of essential data before starting tests to avoid the loss of important information.
+
+### 1.6. Test Execution
+
+Test cases are executed on the created test Cycle summary: (inserati aici numele cycle-ului pe care l-ati creat)
+
+Bugs have been created based on the failed tests. The complete bug reports can be found here: (inserati aici fisierul cu bug-urile pe care le-ati identificat)
+
+The following is a summary of the bugs that have been found (inserati o lista cu titlurile bug-urilor identificate impreuna cu prioritatea si severitatea fiecaruia)
+
+Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
+
+### 1.7 Test Completion As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
+
+The traceability matrix was generated and can be found here: (inserati aici fie o poza cu matricea de trasabilitate din jira, fie linkul catre fiserul excel exportat din jira cu matricea de trasabilitate. Nu uitati sa faceti filtrare dupa type = story)
+
+Test execution chart was generated and can be found below.
+
+(inserati aici raportul de executie generat din jira din sectiunea de dashboards)
+
+The final report shows that a number (inserati numarul de teste) tests have failed of a total of (inserati numarul de teste)
+
+A number of (inserati numarul de bug-uri) total bugs were found, from which the priority is: (inserati numarul de bug-uri) are high and (inserati numarul de bug-uri) are medium.
+
+(inserati aici o concluzie generala a testarii care sa cuprinda cate teste au fost create si executate, ce procentaj aproximativ din cerintele in scop au fost acoperite, daca exista vreo functionalitate pe care nu ai apucat sa o testezi, daca bug-urile gasite impacteaza lansarea produsului in productie sau se pot fixa si ulterior, daca ai identificat riscuri de produs care trebuie mitigate, daca e vreo reecomandare pe care vrei sa o faci pentru lansare, daca sunt ceva lessons learned de care trebuie sa se tina cont la proiectele viitoare etc.)
 
 
