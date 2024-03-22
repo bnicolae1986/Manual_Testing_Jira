@@ -32,9 +32,9 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 1.1.1. Roles asigned to the project and persons allocated
 
-  * Project manager - 
-  * Product owner - 
-  * Software developer - 
+  * Project manager - Ana Dumitrescu
+  * Product owner - Daniela Suciu
+  * Software developer - Mihai Soficaru
   * QA Engineer - Bogdan Nicolae
 
 #### 1.1.2 Entry criteria defined
