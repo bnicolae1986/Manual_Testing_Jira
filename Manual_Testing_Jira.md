@@ -215,7 +215,4 @@ The final report shows that a number of four tests have failed of a total of six
 
 A number of five total bugs were found, from which the priority is: one is high, one is medium and 3 are low priority.
 
-(inserati aici o concluzie generala a testarii care sa cuprinda cate teste au fost create si executate, ce procentaj aproximativ din cerintele in scop au fost acoperite, daca exista vreo functionalitate pe care nu ai apucat sa o testezi, daca bug-urile gasite impacteaza lansarea produsului in productie sau se pot fixa si ulterior, daca ai identificat riscuri de produs care trebuie mitigate, daca e vreo reecomandare pe care vrei sa o faci pentru lansare, daca sunt ceva lessons learned de care trebuie sa se tina cont la proiectele viitoare etc.)
-
-
-
+A total of sixteen tests have been created and executed, the stories have been covered to 95%. One bug that was found has a significant impact on the the product launch into production. The other have low or medium impact. The recommendation is that the bug with the significant impact, must be fixed before the product is launched.
