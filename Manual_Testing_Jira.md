@@ -204,11 +204,12 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 
 ### 1.7 Test Completion As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
-The traceability matrix was generated and can be found here: (inserati aici fie o poza cu matricea de trasabilitate din jira, fie linkul catre fiserul excel exportat din jira cu matricea de trasabilitate. Nu uitati sa faceti filtrare dupa type = story)
+The traceability matrix was generated and can be found here: 
+![Matrix](https://github.com/bnicolae1986/Manual_Testing_Jira/assets/156198321/9d16c69e-f4a6-4543-8fd6-0d19c05570d5)
 
 Test execution chart was generated and can be found below.
 
-(inserati aici raportul de executie generat din jira din sectiunea de dashboards)
+![dashboard](https://github.com/bnicolae1986/Manual_Testing_Jira/assets/156198321/0a998d18-8f72-4e1c-9418-fe42ebd4534e)
 
 The final report shows that a number (inserati numarul de teste) tests have failed of a total of (inserati numarul de teste)
 
