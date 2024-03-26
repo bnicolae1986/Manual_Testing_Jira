@@ -181,9 +181,26 @@ The following elements are needed to be ready before the test execution phase be
 
 Test cases are executed on the created test Cycle summary: Didactic.ro version 1.0
 
-Bugs have been created based on the failed tests. The complete bug reports can be found here: (inserati aici fisierul cu bug-urile pe care le-ati identificat)
+Bugs have been created based on the failed tests. The complete bug reports can be found here: DE URCAT WORD-ul?!?!?!?
 
-The following is a summary of the bugs that have been found (inserati o lista cu titlurile bug-urilor identificate impreuna cu prioritatea si severitatea fiecaruia)
+The following is a summary of the bugs that have been found:
+- When the like button is clicked, the counter does not modify by plus one.
+  - severity: low impact
+  - priority: low
+- The comment text box does not become active when clicked, text can not be entered.
+   - severity: low impact
+   - priority: low
+- The activation process is not succesfull, even though the activation code is valid.
+   - severity: significant impac
+   - priority: highest
+- When the edit button is clicked, the comment text box does not open and is not editable.
+    - severity: minor impact
+    - priority: mediul
+- The "propune" submeniu is incorrectly displayed, it is offset to the right from the button position.
+     - severity: low impact
+     - priority: low
+
+(inserati o lista cu titlurile bug-urilor identificate impreuna cu prioritatea si severitatea fiecaruia)
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
