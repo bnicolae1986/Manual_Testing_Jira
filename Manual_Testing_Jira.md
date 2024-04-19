@@ -96,6 +96,7 @@ Product risks:
 * Poor usability of the application.
 * Poor reliability of the application.
 
+![matrix git](https://github.com/bnicolae1986/Manual_Testing_Jira/assets/156198321/79b7a6f2-b4a3-4401-9e9e-c6ab04e8cbd3)
 
 #### 1.1.6 Evaluating entry criteria
 
