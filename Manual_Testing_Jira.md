@@ -182,7 +182,8 @@ The following elements are needed to be ready before the test execution phase be
 
 Test cases are executed on the created test Cycle summary: Didactic.ro version 1.0
 
-Bugs have been created based on the failed tests. The complete bug reports can be found here: DE URCAT WORD-ul?!?!?!?
+Bugs have been created based on the failed tests. The complete bug reports can be found [here]
+
 
 The following is a summary of the bugs that have been found:
 - When the like button is clicked, the counter does not modify by plus one.
