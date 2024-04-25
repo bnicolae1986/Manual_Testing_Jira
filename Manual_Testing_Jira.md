@@ -182,7 +182,7 @@ The following elements are needed to be ready before the test execution phase be
 
 Test cases are executed on the created test Cycle summary: Didactic.ro version 1.0
 
-Bugs have been created based on the failed tests. The complete bug reports can be found [here]
+Bugs have been created based on the failed tests. The complete bug reports can be found [here](https://github.com/bnicolae1986/Manual_Testing_Jira/blob/main/Jira.doc)
 
 
 The following is a summary of the bugs that have been found:
