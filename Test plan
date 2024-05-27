@@ -1,0 +1,120 @@
+Didactic.ro Project
+-	Test Plan  -
+
+Revision History
+Date	Description	Author	Comments
+10.05.2024	Test Plan	Bogdan Nicolae	version 1.0
+			
+
+Table of Content:
+1.	Introduction
+1.1	Project objective
+1.2	Functionalities in scope
+1.3	Functionalities and tests out of scope
+1.4	Approach
+1.5	Test deliverables
+2.	Test process
+2.1	Test planning
+2.2	Test analysis
+2.3	Test design
+2.4	Test implementation
+2.5	Test execution
+2.6	Test closure
+2.7	Test monitoring and control
+3.	Test deliverables
+3.1	Test plan
+3.2	Test conditions
+3.3	Test cases
+3.4	Daily test summary reports
+3.5	Traceability matrix
+3.6	Test case results
+3.7	Bugs report
+3.8	Test completion report
+
+1. Introduction
+This test plan outlines the strategy, objectives, scope, and approach for testing the “Pagina mea” page of the Didactic.ro application. The “pagina mea” page is a critical component of our application, enabling users to view and manage their personal information, update their settings, and interact with the platform in a personalized manner. Ensuring its functionality, usability, and security is paramount to providing a positive user experience.
+1.2 Objectives
+The primary objectives of this test plan are:
+•	To verify that all features and functionalities work as intended.
+•	To ensure the “Pagina mea” page is user-friendly and provides a seamless user experience.
+•	To identify and resolve any bugs or issues that may impact the performance, security, or usability
+•	To validate the compatibility across different devices, browsers, and operating systems.
+1.3 Scope
+The scope of this test plan includes the following areas of the “Pagina mea” page:
+•	User Information: Display and editing of user profile details such as name, email, phone number, profile picture, etc.
+•	Account Settings: Access to account settings including password changes, notification preferences, and privacy settings.
+•	User Activity: Display of user activity, history, or any relevant logs.
+•	Security Features: Verification of secure access and data protection measures.
+•	User Interface (UI) and User Experience (UX): Assessment of the UI/UX design, including layout, navigation, and accessibility.
+•	Performance: Evaluation of the page's load times, responsiveness, and overall performance under various conditions.
+•	Compatibility: Testing across multiple devices, browsers, and operating systems to ensure consistent performance.
+1.4 Approach
+The testing approach will include a combination of manual and automated testing techniques. The following methodologies will be employed:
+•	Functional Testing: To verify that each feature of the “Pagina mea” page functions correctly according to the requirements.
+•	Usability Testing: To ensure the page is intuitive and easy to use for end-users.
+•	Security Testing: To identify vulnerabilities and ensure the page is secure against potential threats.
+•	Performance Testing: To measure the responsiveness and stability of the “Pagina mea” page under different loads.
+•	Compatibility Testing: To validate the Profile Page's performance across various devices, browsers, and operating systems.
+Test cases will be derived from the detailed requirements and specifications. Each test case will include clear steps to execute, expected results, and criteria for success.
+1.5. Test Deliverables
+The key deliverables of this test plan will include:
+•	Test Cases and Test Scripts: Detailed documents outlining the specific tests to be conducted.
+•	Test Execution Reports: Summaries of the results of the testing, including any defects found.
+•	Bug Reports: Detailed descriptions of any issues encountered, along with steps to reproduce and potential impact assessments.
+•	Final Test Summary Report: A comprehensive overview of the testing outcomes, including metrics, findings, and recommendations.
+By following this test plan, we aim to ensure that the “Pagina mea” page is reliable, secure, and user-friendly, providing a high-quality experience for our users.
+2. Test process
+2.1  Test planning
+Roles and responsibilities
+Bogdan	will test: search feature, add employee feature
+Mihai	will test: reports, data import
+
+Entry criteria:
+-	The business requirements are complete and available.
+-	The roles and responsibilities are assigned to the team members.
+-	testing environment is up and running
+
+Exit criteria:
+-	90% of tests are passed
+-	Exploratory testing undertook
+-	no Critical issues have Open status
+-	update tests are 100% passed (update tests will not generate other new issues that impact the application)
+Risks:
+-	Poor communication among team members
+-	Team is understaffed or unexperienced
+-	The business requirements are incomplete
+-	user data (personal information) might be impacted with update tests, or may be vulnerable.
+-	stability risks (crashes, disconnects)
+-	Windows OS might have performance issues
+-	Google Chrome/Mozilla Firefox browser might have performance issues
+
+
+2.2 Test analysis 
+-	We analyse the business requirements, and make sure we can run all the tests so we can provide the expected results.
+
+2.3 Test design
+-	all the test cases are written and reviewed .
+2.3 Test design
+-	all the test cases are written and reviewed 
+2.4 Test implementation 
+-	all the test data is available and reviewed (test data= email examples, password examples, different type of currency, different types of credit cards)
+-	this test run includes only regression testing in which we will run tests that have the highest priority, this will be main priority
+2.5 Test execution
+-	the tests will be executed on the top 4 used browsers: Chrome, Mozilla Firefox, Microsoft Edge, Apple Safari. if time will be available we will extend tests on Opera and Brave browsers
+2.6 Test closure
+-	at least 95% of tests are passed.
+-	no Critical issues have Open statu.s
+3.	Test conditions
+The test conditions will be created based on the business requirements validated in the test analysis phase and will represent the features to be tested and transformed into test cases.
+3.1 Test cases
+https://itfclasses.atlassian.net/projects/NBT?selectedItem=com.thed.zephyr.je__test-cases
+Daily test summary report https://itfclasses.atlassian.net/projects/NBT?selectedItem=com.thed.zephyr.je__test-summary-project-level 
+3.2 Traceability matrix https://itfclasses.atlassian.net/projects/NBT?selectedItem=com.thed.zephyr.je__traceability-project-level
+3.3 Test case results https://itfclasses.atlassian.net/projects/NBT?selectedItem=com.thed.zephyr.je__cycle-summary 
+3.4 Bugs report https://itfclasses.atlassian.net/jira/software/c/projects/NBT/issues/?jql=project%20%3D%20%22NBT%22%20AND%20type%20%3D%20Bug%20ORDER%20BY%20created%20DESC
+3.5 Test completion report
+ - https://itfclasses.atlassian.net/jira/dashboards/10207
+
+
+
+
