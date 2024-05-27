@@ -139,10 +139,6 @@ The test cases can be accessed here:
 
 The following elements are needed to be ready before the test execution phase begins:
 
-#### Testing Documentation:
-* Requirements and functionality specifications to be tested.
-* Test plan, including test scenarios, priorities, and necessary resources.
-
 #### Testing Environments:
 * Properly configured testing environment settings (hardware, software, network).
 * Relevant test data and test datasets covering various scenarios.
@@ -154,10 +150,6 @@ The following elements are needed to be ready before the test execution phase be
 #### Testing Tools:
 * Ensure that required testing tools are installed and properly configured.
 * Check compatibility of tools with the testing environment and the application itself.
-
-#### Teams and Human Resources:
-* Define roles and responsibilities of testing team members.
-* Ensure all team members are prepared and have access to necessary resources.
 
 #### Reference Data:
 * Identify reference data or expected values for the tested functionalities.
